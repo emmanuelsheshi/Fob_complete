@@ -1,0 +1,6 @@
+0 handGun
+1 person
+2 riffle
+3 knives
+4 random
+5 emptyhall
